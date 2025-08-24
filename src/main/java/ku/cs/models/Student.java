@@ -29,7 +29,7 @@ public class Student {
         }
     }
 
-    // TODO: design grading system for Student
+    // TODO: design grading system for Student (finished)
     public String grade()
     {
         String grade = "F";
